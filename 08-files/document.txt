@@ -1,0 +1,3 @@
+Learning how to read and write files.
+First we talk about plain txt files.
+Then about CSV.

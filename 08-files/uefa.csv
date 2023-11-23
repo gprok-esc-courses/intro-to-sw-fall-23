@@ -1,0 +1,329 @@
+year,code,name,round,league,region,decade,superliga,city,areacode,metropol,pop,gdp,country,eurostat,ecb,cowc,cown
+1981,LIV,Liverpool FC,W,England,Big 5,1980s,Yes,Liverpool,UK006,Liverpool,1533860,50484,United Kingdom,UK,GB,UKG,200
+1981,MAD,Real Madrid CF,RU,Spain,Big 5,1980s,Yes,Madrid,ES001,Madrid,6791667,342534,Spain,ES,ES,SPN,230
+1981,BMN,FC Bayern,SF,Germany,Big 5,1980s,No,München,DE003,Munich,2883373,241407,Germany,DE,DE,GMY,255
+1981,INT,FC Inter Milan,SF,Italy,Big 5,1980s,Yes,Milano,IT002,Milan,5145657,301366,Italy,IT,IT,ITA,325
+1981,BEL,Red Star,QF,Serbia,East,1980s,No,Belgrade,Belgrade,NA,NA,NA,NA,NA,NA,NA,NA
+1981,SPA,Spartak Moscow,QF,Russia,East,1980s,No,Moscow,RU001,Moscow,12506468,284400,Russia,RU,RU,RUS,365
+1981,OST,Baník Ostrava,QF,Czechia,East,1980s,No,Ostrava,CZ003,Ostrava,719777,22067,Czechia,CZ,CZ,CZR,316
+1981,SOF,CSKA Sofia,QF,Bulgaria,East,1980s,No,Sofia,BG001,NA,NA,NA,Bulgaria,BG,BG,BUL,355
+1982,AST,Aston Villa FC,W,England,Big 5,1980s,No,Birmingham,UK002,West Midlands urban area,3097965,112240,United Kingdom,UK,GB,UKG,200
+1982,BMN,FC Bayern,RU,Germany,Big 5,1980s,No,München,DE003,Munich,2883373,241407,Germany,DE,DE,GMY,255
+1982,SOF,CSKA Sofia,SF,Bulgaria,East,1980s,No,Sofia,BG001,NA,NA,NA,Bulgaria,BG,BG,BUL,355
+1982,AND,RSC Anderlecht,SF,Belgium,Small,1980s,No,Bruxelles / Brussel,BE001,Brussels,2659855,198355,Belgium,BE,BE,BEL,211
+1982,CRA,Universitatea Craiova,QF,Romania,East,1980s,No,Craiova,RO004,NA,NA,NA,Romania,RO,RO,ROM,360
+1982,LIV,Liverpool FC,QF,England,Big 5,1980s,Yes,Liverpool,UK006,Liverpool,1533860,50484,United Kingdom,UK,GB,UKG,200
+1982,BEL,Red Star,QF,Serbia,East,1980s,No,Belgrade,Belgrade,NA,NA,NA,NA,NA,NA,NA,NA
+1982,KYV,FC Dynamo Kyiv,QF,Ukraine,East,1980s,No,Kyiv,UA001,Kyiv,2884000,8056,Ukraine,UA,UA,UKR,369
+1983,HAM,Hamburg,W,Germany,Big 5,1980s,No,Hamburg,BE002,Antwerp,1110442,66122,Germany,DE,DE,GMY,255
+1983,JUV,Juventus FC,RU,Italy,Big 5,1980s,Yes,Torino,IT004,Turin,1760085,76575,Italy,IT,IT,ITA,325
+1983,RSO,Real Sociedad,SF,Spain,Big 5,1980s,No,Guipúzcoa,ES510,Donostia-San Sebastian,339093,NA,Spain,ES,ES,SPN,230
+1983,WID,Widzew Łódź,SF,Poland,East,1980s,No,Łódź,PL002,Lodz,907154,31322,Poland,PL,PL,POL,290
+1983,LIV,Liverpool FC,QF,England,Big 5,1980s,Yes,Liverpool,UK006,Liverpool,1533860,50484,United Kingdom,UK,GB,UKG,200
+1983,AST,Aston Villa FC,QF,England,Big 5,1980s,No,Birmingham,UK002,West Midlands urban area,3097965,112240,United Kingdom,UK,GB,UKG,200
+1983,KYV,FC Dynamo Kyiv,QF,Russia,East,1980s,No,Kyiv,UA001,Kyiv,2884000,8056,Russia,RU,RU,RUS,365
+1983,SPO,Sporting Portugal,QF,Portugal,Small,1980s,No,Lisbon,PT001,Lisbon,2976356,122547,Portugal,PT,PT,POR,235
+1984,LIV,Liverpool FC,W,England,Big 5,1980s,Yes,Liverpool,UK006,Liverpool,1533860,50484,United Kingdom,UK,GB,UKG,200
+1984,ROM,AS Roma,RU,Italy,Big 5,1980s,No,Roma,IT001,Rome,4429025,215715,Italy,IT,IT,ITA,325
+1984,BUC,Dinamo Bucaresti,SF,Romania,East,1980s,No,Bucuresti,RO001,NA,NA,NA,Romania,RO,RO,ROM,360
+1984,DUN,Dundee United,SF,Scotland,Small,1980s,No,Dundee,Dundee,NA,NA,NA,NA,NA,NA,NA,NA
+1984,VER,Dynamo Berlin,QF,Germany,East,1980s,No,Berlin,DE001,Berlin,5259363,238308,Germany,DE,DE,GMY,255
+1984,RVI,Rapid Viena,QF,Austria,Small,1980s,No,Wien,AT001,Vienna,2967197,162868,Austria,AT,AT,AUS,305
+1984,MIN,Dinamo Minsk,QF,Bielorrusia,East,1980s,No,Minsk,Minsk,NA,NA,NA,Belarus,BY,BY,BLR,370
+1984,BEN,SL Benfica,QF,Portugal,Small,1980s,No,Lisbon,PT001,Lisbon,2976356,122547,Portugal,PT,PT,POR,235
+1985,JUV,Juventus FC,W,Italy,Big 5,1980s,Yes,Torino,IT004,Turin,1760085,76575,Italy,IT,IT,ITA,325
+1985,LIV,Liverpool FC,RU,England,Big 5,1980s,Yes,Liverpool,UK006,Liverpool,1533860,50484,United Kingdom,UK,GB,UKG,200
+1985,GIR,FC Girondins Bordeaux,SF,France,Big 5,1980s,No,Bordeaux,FR007,Bordeaux,1262357,52617,France,FR,FR,FRN,220
+1985,PAN,Panathinakos FC,SF,Greece,Small,1980s,No,Athina,EL001,Athens,3541591,134254,Greece,EL,GR,GRC,350
+1985,PRA,Sparta Praga,QF,Czechia,East,1980s,No,Praha,CZ001,Prague,2216038,131755,Czechia,CZ,CZ,CZR,316
+1985,DNI,FC Dniprò Dnipropetrovsk,QF,Ukraine,East,1980s,No,Dnipropetrovsk,Dnipropetrovsk,NA,NA,NA,Ukraine,UA,UA,UKR,369
+1985,VIE,Austria Viena,QF,Austria,Small,1980s,No,Wien,AT001,Vienna,2967197,162868,Austria,AT,AT,AUS,305
+1985,IFK,IFK Goteborg,QF,Sweden,Small,1980s,No,Goteborg,SE002,Gothenburg,1021831,51286,Sweden,SE,SE,SWD,380
+1986,STE,Steaua Bucaresti,W,Romania,East,1980s,No,Bucuresti,RO001,NA,NA,NA,Romania,RO,RO,ROM,360
+1986,FCB,FC Barcelona,RU,Spain,Big 5,1980s,Yes,Barcelona,ES002,Barcelona,4985549,218318,Spain,ES,ES,SPN,230
+1986,IFK,IFK Goteborg,SF,Sweden,Small,1980s,No,Goteborg,SE002,Gothenburg,1021831,51286,Sweden,SE,SE,SWD,380
+1986,AND,RSC Anderlecht,SF,Belgium,Small,1980s,No,Bruxelles / Brussel,BE001,Brussels,2659855,198355,Belgium,BE,BE,BEL,211
+1986,BMN,FC Bayern,QF,Germany,Big 5,1980s,No,München,DE003,Munich,2883373,241407,Germany,DE,DE,GMY,255
+1986,JUV,Juventus FC,QF,Italy,Big 5,1980s,Yes,Torino,IT004,Turin,1760085,76575,Italy,IT,IT,ITA,325
+1986,ABE,Aberdeen,QF,Scotland,Small,1980s,No,Aberdeen,Aberdeen,NA,NA,NA,NA,NA,NA,NA,NA
+1986,KUU,FC Kuusysi,QF,Finland,Small,1980s,No,Lahti,Lahti,NA,NA,NA,Finland,FI,FI,FIN,375
+1987,POR,FC Porto,W,Portugal,Small,1980s,No,Porto,PT002,Porto,1272189,38974,Portugal,PT,PT,POR,235
+1987,BMN,FC Bayern,RU,Germany,Big 5,1980s,No,München,DE003,Munich,2883373,241407,Germany,DE,DE,GMY,255
+1987,KYV,FC Dynamo Kyiv,SF,Ukraine,East,1980s,No,Kyiv,UA001,Kyiv,2884000,8056,Ukraine,UA,UA,UKR,369
+1987,MAD,Real Madrid CF,SF,Spain,Big 5,1980s,Yes,Madrid,ES001,Madrid,6791667,342534,Spain,ES,ES,SPN,230
+1987,BEL,Red Star,QF,Serbia,East,1980s,No,Belgrade,Belgrade,NA,NA,NA,NA,NA,NA,NA,NA
+1987,AND,RSC Anderlecht,QF,Belgium,Small,1980s,No,Bruxelles / Brussel,BE001,Brussels,2659855,198355,Belgium,BE,BE,BEL,211
+1987,BES,Beşiktaş,QF,Turkey,Small,1980s,No,Istanbul,TR001,Istanbul,15462452,237000,Turkey,TR,TR,TUR,640
+1987,BRO,Brøndby,QF,Denmark,Small,1980s,No,Copenhagen,DK001,Copenhagen,1919370,118944,Denmark,DK,DK,DEN,390
+1988,PSV,PSV Eindhoven,W,Netherlands,Small,1980s,No,Eindhoven,NL005,Eindhoven,753778,46945,Netherlands,NL,NL,NTH,210
+1988,BEN,SL Benfica,RU,Portugal,Small,1980s,No,Lisbon,PT001,Lisbon,2976356,122547,Portugal,PT,PT,POR,235
+1988,MAD,Real Madrid CF,SF,Spain,Big 5,1980s,Yes,Madrid,ES001,Madrid,6791667,342534,Spain,ES,ES,SPN,230
+1988,STE,Steaua Bucaresti,SF,Romania,East,1980s,No,Bucuresti,RO001,NA,NA,NA,Romania,RO,RO,ROM,360
+1988,BMN,FC Bayern,QF,Germany,Big 5,1980s,No,München,DE003,Munich,2883373,241407,Germany,DE,DE,GMY,255
+1988,GIR,FC Girondins Bordeaux,QF,France,Big 5,1980s,No,Bordeaux,FR007,Bordeaux,1262357,52617,France,FR,FR,FRN,220
+1988,RAN,Rangers FC,QF,Scotland,Small,1980s,No,Glasgow,UK004,Glasgow,1830710,65684,NA,NA,NA,NA,NA
+1988,AND,RSC Anderlecht,QF,Belgium,Small,1980s,No,Bruxelles / Brussel,BE001,Brussels,2659855,198355,Belgium,BE,BE,BEL,211
+1989,MIL,AC Milan,W,Italy,Big 5,1990s,Yes,Milano,IT002,Milan,5145657,301366,Italy,IT,IT,ITA,325
+1989,STE,Steaua Bucaresti,RU,Romania,East,1990s,No,Bucuresti,RO001,NA,NA,NA,Romania,RO,RO,ROM,360
+1989,GAL,Galatasaray,SF,Turkey,Small,1990s,No,Istanbul,TR001,Istanbul,15462452,237000,Turkey,TR,TR,TUR,640
+1989,MAD,Real Madrid CF,SF,Spain,Big 5,1990s,Yes,Madrid,ES001,Madrid,6791667,342534,Spain,ES,ES,SPN,230
+1989,MON,As Monaco,QF,France,Big 5,1990s,No,Monaco,Monaco,NA,NA,NA,France,FR,FR,FRN,220
+1989,IFK,IFK Goteborg,QF,Sweden,Small,1990s,No,Goteborg,SE002,Gothenburg,1021831,51286,Sweden,SE,SE,SWD,380
+1989,BRE,Werder Bremen,QF,Germany,Big 5,1990s,No,Bremen,DE012,Bremen,1274611,62088,Germany,DE,DE,GMY,255
+1989,PSV,PSV Eindhoven,QF,Netherlands,Small,1990s,No,Eindhoven,NL005,Eindhoven,753778,46945,Netherlands,NL,NL,NTH,210
+1990,MIL,AC Milan,W,Italy,Big 5,1990s,Yes,Milano,IT002,Milan,5145657,301366,Italy,IT,IT,ITA,325
+1990,BEN,SL Benfica,RU,Portugal,Small,1990s,No,Lisbon,PT001,Lisbon,2976356,122547,Portugal,PT,PT,POR,235
+1990,BMN,FC Bayern,SF,Germany,Big 5,1990s,No,München,DE003,Munich,2883373,241407,Germany,DE,DE,GMY,255
+1990,MAR,Marseille FC,SF,France,Big 5,1990s,No,Marseille,FR203,Marseille,1260223,53884,France,FR,FR,FRN,220
+1990,MEC,KV Mechelen,QF,Belgium,Small,1990s,No,Mechelen,Mechelen,NA,NA,NA,Belgium,BE,BE,BEL,211
+1990,PSV,PSV Eindhoven,QF,Netherlands,Small,1990s,No,Eindhoven,NL005,Eindhoven,753778,46945,Netherlands,NL,NL,NTH,210
+1990,SOF,CSKA Sofia,QF,Bulgaria,East,1990s,No,Sofia,BG001,NA,NA,NA,Bulgaria,BG,BG,BUL,355
+1990,DNI,FC Dniprò Dnipropetrovsk,QF,Ukraine,East,1990s,No,Dnipropetrovsk,Dnipropetrovsk,NA,NA,NA,Ukraine,UA,UA,UKR,369
+1991,BEL,Red Star,W,Serbia,East,1990s,No,Belgrade,Belgrade,NA,NA,NA,NA,NA,NA,NA,NA
+1991,MAR,Marseille FC,RU,France,Big 5,1990s,No,Marseille,FR203,Marseille,1260223,53884,France,FR,FR,FRN,220
+1991,BMN,FC Bayern,SF,Germany,Big 5,1990s,No,München,DE003,Munich,2883373,241407,Germany,DE,DE,GMY,255
+1991,SPA,FK Spartak Moscow,SF,Russia,East,1990s,No,Moscow,RU001,Moscow,12506468,284400,Russia,RU,RU,RUS,365
+1991,POR,FC Porto,QF,Portugal,Small,1990s,No,Porto,PT002,Porto,1272189,38974,Portugal,PT,PT,POR,235
+1991,DRE,Dynamo Dresden,QF,Germany,East,1990s,No,Dresden,DE009,Dresden,1341986,52950,Germany,DE,DE,GMY,255
+1991,RMA,Real Madrid CF,QF,Spain,Big 5,1990s,Yes,Madrid,ES001,Madrid,6791667,342534,Spain,ES,ES,SPN,230
+1991,MIL,AC Milan,QF,Italy,Big 5,1990s,Yes,Milano,IT002,Milan,5145657,301366,Italy,IT,IT,ITA,325
+1992,BAR,FC Barcelona,W,Spain,Big 5,1990s,Yes,Barcelona,ES002,Barcelona,4985549,218318,Spain,ES,ES,SPN,230
+1992,SAM,UC Sampdoria,RU,Italy,Big 5,1990s,No,Genova,IT006,Genoa,705175,32391,Italy,IT,IT,ITA,325
+1992,PRA,Sparta Praga,SF,Czechia,East,1990s,No,Praha,CZ001,Prague,2216038,131755,Czechia,CZ,CZ,CZR,316
+1992,BEN,SL Benfica,SF,Portugal,Small,1990s,No,Lisbon,PT001,Lisbon,2976356,122547,Portugal,PT,PT,POR,235
+1992,KYV,FC Dynamo Kyiv,QF,Ukraine,East,1990s,No,Kyiv,UA001,Kyiv,2884000,8056,Ukraine,UA,UA,UKR,369
+1992,BEL,Red Star,QF,Serbia,East,1990s,No,Belgrade,Belgrade,NA,NA,NA,NA,NA,NA,NA,NA
+1992,AND,RSC Anderlecht,QF,Belgium,Small,1990s,No,Bruxelles / Brussel,BE001,Brussels,2659855,198355,Belgium,BE,BE,BEL,211
+1992,PAN,Panathinakos FC,QF,Greece,Small,1990s,No,Athina,EL001,Athens,3541591,134254,Greece,EL,GR,GRC,350
+1993,MAR,Marseille FC,W,France,Big 5,1990s,No,Marseille,FR203,Marseille,1260223,53884,France,FR,FR,FRN,220
+1993,MIL,AC Milan,RU,Italy,Big 5,1990s,Yes,Milano,IT002,Milan,5145657,301366,Italy,IT,IT,ITA,325
+1993,RAN,Rangers FC,SF,Scotland,Small,1990s,No,Glasgow,UK004,Glasgow,1830710,65684,NA,NA,NA,NA,NA
+1993,BRU,Club Brugge,SF,Belgium,Small,1990s,No,Brugge,BE_NM,NA,NA,NA,Belgium,BE,BE,BEL,211
+1993,MOS,CSKA Moscow,QF,Russia,East,1990s,No,Moscow,RU001,Moscow,12506468,284400,Russia,RU,RU,RUS,365
+1993,IFK,IFK Goteborg,QF,Sweden,Small,1990s,No,Goteborg,SE002,Gothenburg,1021831,51286,Sweden,SE,SE,SWD,380
+1993,POR,FC Porto,QF,Portugal,Small,1990s,No,Porto,PT002,Porto,1272189,38974,Portugal,PT,PT,POR,235
+1993,PSV,PSV Eindhoven,QF,Netherlands,Small,1990s,No,Eindhoven,NL005,Eindhoven,753778,46945,Netherlands,NL,NL,NTH,210
+1994,MIL,AC Milan,W,Italy,Big 5,1990s,Yes,Milano,IT002,Milan,5145657,301366,Italy,IT,IT,ITA,325
+1994,FCB,FC Barcelona,RU,Spain,Big 5,1990s,Yes,Barcelona,ES002,Barcelona,4985549,218318,Spain,ES,ES,SPN,230
+1994,POR,FC Porto,SF,Portugal,Small,1990s,No,Porto,PT002,Porto,1272189,38974,Portugal,PT,PT,POR,235
+1994,MON,As Monaco,SF,France,Big 5,1990s,No,Monaco,Monaco,NA,NA,NA,France,FR,FR,FRN,220
+1994,SPA,FK Spartak Moscow,QF,Russia,East,1990s,No,Moscow,RU001,Moscow,12506468,284400,Russia,RU,RU,RUS,365
+1994,GAL,Galatasaray,QF,Turkey,Small,1990s,No,Istanbul,TR001,Istanbul,15462452,237000,Turkey,TR,TR,TUR,640
+1994,BRE,Werder Bremen,QF,Germany,Big 5,1990s,No,Bremen,DE012,Bremen,1274611,62088,Germany,DE,DE,GMY,255
+1994,AND,RSC Anderlecht,QF,Belgium,Small,1990s,No,Bruxelles / Brussel,BE001,Brussels,2659855,198355,Belgium,BE,BE,BEL,211
+1995,AJA,AFC Ajax,W,Netherlands,Small,1990s,No,Amsterdam,NL002,Amsterdam,2769100,200944,Netherlands,NL,NL,NTH,210
+1995,MIL,AC Milan,RU,Italy,Big 5,1990s,Yes,Milano,IT002,Milan,5145657,301366,Italy,IT,IT,ITA,325
+1995,BMN,FC Bayern,SF,Germany,Big 5,1990s,No,München,DE003,Munich,2883373,241407,Germany,DE,DE,GMY,255
+1995,PSG,Paris SG,SF,France,Big 5,1990s,No,Paris,FR001,Paris,12914803,913737,France,FR,FR,FRN,220
+1995,BEN,SL Benfica,QF,Portugal,Small,1990s,No,Lisbon,PT001,Lisbon,2976356,122547,Portugal,PT,PT,POR,235
+1995,FCB,FC Barcelona,QF,Spain,Big 5,1990s,Yes,Barcelona,ES002,Barcelona,4985549,218318,Spain,ES,ES,SPN,230
+1995,HAD,Hajduk Split,QF,Croatia,East,1990s,No,Split,HR005,NA,NA,NA,Croatia,HR,HR,CRO,344
+1995,IFK,IFK Goteborg,QF,Sweden,Small,1990s,No,Goteborg,SE002,Gothenburg,1021831,51286,Sweden,SE,SE,SWD,380
+1996,AJA,AFC Ajax,W,Netherlands,Small,1990s,No,Amsterdam,NL002,Amsterdam,2769100,200944,Netherlands,NL,NL,NTH,210
+1996,JUV,Juventus FC,RU,Italy,Big 5,1990s,Yes,Torino,IT004,Turin,1760085,76575,Italy,IT,IT,ITA,325
+1996,PAN,Panathinakos FC,SF,Greece,Small,1990s,No,Athina,EL001,Athens,3541591,134254,Greece,EL,GR,GRC,350
+1996,NAN,Nantes,SF,France,Big 5,1990s,No,Nantes,FR008,Nantes,987264,42914,France,FR,FR,FRN,220
+1996,SPA,FK Spartak Moscow,QF,Russia,East,1990s,No,Moscow,RU001,Moscow,12506468,284400,Russia,RU,RU,RUS,365
+1996,RMA,Real Madrid CF,QF,Spain,Big 5,1990s,Yes,Madrid,ES001,Madrid,6791667,342534,Spain,ES,ES,SPN,230
+1996,LIE,Standard Liège,QF,Belgium,Small,1990s,No,Liège,BE005,Liege,749534,27960,Belgium,BE,BE,BEL,211
+1996,DOR,Borussia Dortmund,QF,Germany,Big 5,1990s,No,Ruhrgebiet,DE038,Ruhr,5113487,206526,Germany,DE,DE,GMY,255
+1997,DOR,Borussia Dortmund,W,Germany,Big 5,1990s,No,Ruhrgebiet,DE038,Ruhr,5113487,206526,Germany,DE,DE,GMY,255
+1997,JUV,Juventus FC,RU,Italy,Big 5,1990s,Yes,Torino,IT004,Turin,1760085,76575,Italy,IT,IT,ITA,325
+1997,AJA,AFC Ajax,SF,Netherlands,Small,1990s,No,Amsterdam,NL002,Amsterdam,2769100,200944,Netherlands,NL,NL,NTH,210
+1997,MNU,Manchester Utd FC,SF,England,Big 5,1990s,Yes,Manchester,UK008,Manchester,3348274,136317,United Kingdom,UK,GB,UKG,200
+1997,ROS,Rosenborg BK,QF,Norway,Small,1990s,No,Trondheim,NO003,Trondheim,282362,13527,Norway,NO,NO,NOR,385
+1997,ATM,Atletico Madrid CF,QF,Spain,Big 5,1990s,Yes,Madrid,ES001,Madrid,6791667,342534,Spain,ES,ES,SPN,230
+1997,POR,FC Porto,QF,Portugal,Small,1990s,No,Porto,PT002,Porto,1272189,38974,Portugal,PT,PT,POR,235
+1997,AUX,AJ Auxerre,QF,France,Big 5,1990s,No,Auxerre,Auxerre,NA,NA,NA,France,FR,FR,FRN,220
+1998,RMA,Real Madrid CF,W,Spain,Big 5,1990s,Yes,Madrid,ES001,Madrid,6791667,342534,Spain,ES,ES,SPN,230
+1998,JUV,Juventus FC,RU,Italy,Big 5,1990s,Yes,Torino,IT004,Turin,1760085,76575,Italy,IT,IT,ITA,325
+1998,DOR,Borussia Dortmund,SF,Germany,Big 5,1990s,No,Ruhrgebiet,DE038,Ruhr,5113487,206526,Germany,DE,DE,GMY,255
+1998,MON,AS Monaco,SF,France,Big 5,1990s,No,Monaco,Monaco,NA,NA,NA,France,FR,FR,FRN,220
+1998,MNU,Manchester Utd FC,QF,England,Big 5,1990s,Yes,Manchester,UK008,Manchester,3348274,136317,United Kingdom,UK,GB,UKG,200
+1998,KYV,FC Dynamo Kyiv,QF,Ukraine,East,1990s,No,Kyiv,UA001,Kyiv,2884000,8056,Ukraine,UA,UA,UKR,369
+1998,BMN,FC Bayern,QF,Germany,Big 5,1990s,No,München,DE003,Munich,2883373,241407,Germany,DE,DE,GMY,255
+1998,LEV,Bayern Leverkusen,QF,Germany,Big 5,1990s,No,Ruhrgebiet,DE038,Ruhr,5113487,206526,Germany,DE,DE,GMY,255
+1999,MNU,Manchester Utd FC,W,England,Big 5,2000s,Yes,Manchester,UK008,Manchester,3348274,136317,United Kingdom,UK,GB,UKG,200
+1999,BMN,FC Bayern,RU,Germany,Big 5,2000s,No,München,DE003,Munich,2883373,241407,Germany,DE,DE,GMY,255
+1999,JUV,Juventus FC,SF,Italy,Big 5,2000s,Yes,Torino,IT004,Turin,1760085,76575,Italy,IT,IT,ITA,325
+1999,KYV,FC Dynamo Kyiv,SF,Ukraine,East,2000s,No,Kyiv,UA001,Kyiv,2884000,8056,Ukraine,UA,UA,UKR,369
+1999,KAI,FC Kaiserslautern,QF,Germany,Big 5,2000s,No,Kaiserslautern,DE044,Kaiserslautern,276097,10643,Germany,DE,DE,GMY,255
+1999,OLY,Olympiakos FC,QF,Greece,Small,2000s,No,Athina,EL001,Athens,3541591,134254,Greece,EL,GR,GRC,350
+1999,INT,FC Inter Milan,QF,Italy,Big 5,2000s,Yes,Milano,IT002,Milan,5145657,301366,Italy,IT,IT,ITA,325
+1999,RMA,Real Madrid CF,QF,Spain,Big 5,2000s,Yes,Madrid,ES001,Madrid,6791667,342534,Spain,ES,ES,SPN,230
+2000,RMA,Real Madrid CF,W,Spain,Big 5,2000s,Yes,Madrid,ES001,Madrid,6791667,342534,Spain,ES,ES,SPN,230
+2000,VAL,Valencia CF,RU,Spain,Big 5,2000s,No,Valencia,ES003,Valencia,1733606,58149,Spain,ES,ES,SPN,230
+2000,FCB,FC Barcelona,SF,Spain,Big 5,2000s,Yes,Barcelona,ES002,Barcelona,4985549,218318,Spain,ES,ES,SPN,230
+2000,BMN,FC Bayern,SF,Germany,Big 5,2000s,No,München,DE003,Munich,2883373,241407,Germany,DE,DE,GMY,255
+2000,LAZ,Lazio,QF,Italy,Big 5,2000s,No,Roma,IT001,Rome,4429025,215715,Italy,IT,IT,ITA,325
+2000,CHE,Chelsea FC,QF,England,Big 5,2000s,Yes,London,UK001,London,12434823,851738,United Kingdom,UK,GB,UKG,200
+2000,POR,FC Porto,QF,Portugal,Small,2000s,No,Porto,PT002,Porto,1272189,38974,Portugal,PT,PT,POR,235
+2000,MNU,Manchester Utd FC,QF,England,Big 5,2000s,Yes,Manchester,UK008,Manchester,3348274,136317,United Kingdom,UK,GB,UKG,200
+2001,BMN,FC Bayern,W,Germany,Big 5,2000s,No,München,DE003,Munich,2883373,241407,Germany,DE,DE,GMY,255
+2001,VAL,Valencia CF,RU,Spain,Big 5,2000s,No,Valencia,ES003,Valencia,1733606,58149,Spain,ES,ES,SPN,230
+2001,LEE,Leeds United,SF,England,Big 5,2000s,No,Leeds,Leeds,NA,NA,NA,United Kingdom,UK,GB,UKG,200
+2001,RMA,Real Madrid CF,SF,Spain,Big 5,2000s,Yes,Madrid,ES001,Madrid,6791667,342534,Spain,ES,ES,SPN,230
+2001,MNU,Manchester Utd FC,QF,England,Big 5,2000s,Yes,Manchester,UK008,Manchester,3348274,136317,United Kingdom,UK,GB,UKG,200
+2001,GAL,Galatasaray,QF,Turkey,Small,2000s,No,Istanbul,TR001,Istanbul,15462452,237000,Turkey,TR,TR,TUR,640
+2001,ARS,Arsenal FC,QF,England,Big 5,2000s,Yes,London,UK001,London,12434823,851738,United Kingdom,UK,GB,UKG,200
+2001,DEP,Deportivo Coruña,QF,Spain,Big 5,2000s,No,A Coruña,ES026,Coruna (A),417452,NA,Spain,ES,ES,SPN,230
+2002,RMA,Real Madrid CF,RU,Spain,Big 5,2000s,Yes,Madrid,ES001,Madrid,6791667,342534,Spain,ES,ES,SPN,230
+2002,LEV,Bayern Leverkusen,W,Germany,Big 5,2000s,No,Ruhrgebiet,DE038,Ruhr,5113487,206526,Germany,DE,DE,GMY,255
+2002,FCB,FC Barcelona,SF,Spain,Big 5,2000s,Yes,Barcelona,ES002,Barcelona,4985549,218318,Spain,ES,ES,SPN,230
+2002,MNU,Manchester Utd FC,SF,England,Big 5,2000s,Yes,Manchester,UK008,Manchester,3348274,136317,United Kingdom,UK,GB,UKG,200
+2002,LIV,Liverpool FC,QF,England,Big 5,2000s,Yes,Liverpool,UK006,Liverpool,1533860,50484,United Kingdom,UK,GB,UKG,200
+2002,DEP,Deportivo Coruña,QF,Spain,Big 5,2000s,No,A Coruña,ES026,Coruna (A),417452,NA,Spain,ES,ES,SPN,230
+2002,BMN,FC Bayern,QF,Germany,Big 5,2000s,No,München,DE003,Munich,2883373,241407,Germany,DE,DE,GMY,255
+2002,PAN,Panathinakos FC,QF,Greece,Small,2000s,No,Athina,EL001,Athens,3541591,134254,Greece,EL,GR,GRC,350
+2003,JUV,Juventus FC,W,Italy,Big 5,2000s,Yes,Torino,IT004,Turin,1760085,76575,Italy,IT,IT,ITA,325
+2003,MIL,AC Milan,RU,Italy,Big 5,2000s,Yes,Milano,IT002,Milan,5145657,301366,Italy,IT,IT,ITA,325
+2003,RMA,Real Madrid CF,SF,Spain,Big 5,2000s,Yes,Madrid,ES001,Madrid,6791667,342534,Spain,ES,ES,SPN,230
+2003,INT,FC Inter Milan,SF,Italy,Big 5,2000s,Yes,Milano,IT002,Milan,5145657,301366,Italy,IT,IT,ITA,325
+2003,FCB,FC Barcelona,QF,Spain,Big 5,2000s,Yes,Barcelona,ES002,Barcelona,4985549,218318,Spain,ES,ES,SPN,230
+2003,VAL,Valencia CF,QF,Spain,Big 5,2000s,No,Valencia,ES003,Valencia,1733606,58149,Spain,ES,ES,SPN,230
+2003,AJA,AFC Ajax,QF,Netherlands,Small,2000s,No,Amsterdam,NL002,Amsterdam,2769100,200944,Netherlands,NL,NL,NTH,210
+2003,MNU,Manchester Utd FC,QF,England,Big 5,2000s,Yes,Manchester,UK008,Manchester,3348274,136317,United Kingdom,UK,GB,UKG,200
+2004,POR,FC Porto,W,Portugal,Small,2000s,No,Porto,PT002,Porto,1272189,38974,Portugal,PT,PT,POR,235
+2004,MON,AS Monaco,RU,France,Big 5,2000s,No,Monaco,Monaco,NA,NA,NA,France,FR,FR,FRN,220
+2004,CHE,Chelsea FC,SF,England,Big 5,2000s,Yes,London,UK001,London,12434823,851738,United Kingdom,UK,GB,UKG,200
+2004,DEP,Deportivo Coruña,SF,Spain,Big 5,2000s,No,A Coruña,ES026,Coruna (A),417452,NA,Spain,ES,ES,SPN,230
+2004,RMA,Real Madrid CF,QF,Spain,Big 5,2000s,Yes,Madrid,ES001,Madrid,6791667,342534,Spain,ES,ES,SPN,230
+2004,LYO,Olympique Lyon,QF,France,Big 5,2000s,No,Lyon,FR003,Lyon,2100064,112896,France,FR,FR,FRN,220
+2004,MIL,AC Milan,QF,Italy,Big 5,2000s,Yes,Milano,IT002,Milan,5145657,301366,Italy,IT,IT,ITA,325
+2004,ARS,Arsenal FC,QF,England,Big 5,2000s,Yes,London,UK001,London,12434823,851738,United Kingdom,UK,GB,UKG,200
+2005,MIL,AC Milan,W,Italy,Big 5,2000s,Yes,Milano,IT002,Milan,5145657,301366,Italy,IT,IT,ITA,325
+2005,LIV,Liverpool FC,RU,England,Big 5,2000s,Yes,Liverpool,UK006,Liverpool,1533860,50484,United Kingdom,UK,GB,UKG,200
+2005,CHE,Chelsea FC,SF,England,Big 5,2000s,Yes,London,UK001,London,12434823,851738,United Kingdom,UK,GB,UKG,200
+2005,PSV,PSV Eindhoven,SF,Netherlands,Small,2000s,No,Eindhoven,NL005,Eindhoven,753778,46945,Netherlands,NL,NL,NTH,210
+2005,JUV,Juventus FC,QF,Italy,Big 5,2000s,Yes,Torino,IT004,Turin,1760085,76575,Italy,IT,IT,ITA,325
+2005,INT,FC Inter Milan,QF,Italy,Big 5,2000s,Yes,Milano,IT002,Milan,5145657,301366,Italy,IT,IT,ITA,325
+2005,LYO,Olympique Lyon,QF,France,Big 5,2000s,No,Lyon,FR003,Lyon,2100064,112896,France,FR,FR,FRN,220
+2005,BMN,FC Bayern,QF,Germany,Big 5,2000s,No,München,DE003,Munich,2883373,241407,Germany,DE,DE,GMY,255
+2006,FCB,FC Barcelona,W,Spain,Big 5,2000s,Yes,Barcelona,ES002,Barcelona,4985549,218318,Spain,ES,ES,SPN,230
+2006,ARS,Arsenal FC,RU,England,Big 5,2000s,Yes,London,UK001,London,12434823,851738,United Kingdom,UK,GB,UKG,200
+2006,VIL,Villareal CF,SF,Spain,Big 5,2000s,No,Vilareal,Vilareal,NA,NA,NA,Spain,ES,ES,SPN,230
+2006,MIL,AC Milan,SF,Italy,Big 5,2000s,Yes,Milano,IT002,Milan,5145657,301366,Italy,IT,IT,ITA,325
+2006,BEN,SL Benfica,QF,Portugal,Small,2000s,No,Lisbon,PT001,Lisbon,2976356,122547,Portugal,PT,PT,POR,235
+2006,INT,FC Inter Milan,QF,Italy,Big 5,2000s,Yes,Milano,IT002,Milan,5145657,301366,Italy,IT,IT,ITA,325
+2006,LYO,Olympique Lyon,QF,France,Big 5,2000s,No,Lyon,FR003,Lyon,2100064,112896,France,FR,FR,FRN,220
+2006,JUV,Juventus FC,QF,Italy,Big 5,2000s,Yes,Torino,IT004,Turin,1760085,76575,Italy,IT,IT,ITA,325
+2007,MIL,AC Milan,W,Italy,Big 5,2000s,Yes,Milano,IT002,Milan,5145657,301366,Italy,IT,IT,ITA,325
+2007,LIV,Liverpool FC,RU,England,Big 5,2000s,Yes,Liverpool,UK006,Liverpool,1533860,50484,United Kingdom,UK,GB,UKG,200
+2007,CHE,Chelsea FC,SF,England,Big 5,2000s,Yes,London,UK001,London,12434823,851738,United Kingdom,UK,GB,UKG,200
+2007,MNU,Manchester Utd FC,SF,England,Big 5,2000s,Yes,Manchester,UK008,Manchester,3348274,136317,United Kingdom,UK,GB,UKG,200
+2007,VAL,Valencia CF,QF,Spain,Big 5,2000s,No,Valencia,ES003,Valencia,1733606,58149,Spain,ES,ES,SPN,230
+2007,ROM,AS Roma,QF,Italy,Big 5,2000s,No,Roma,IT001,Rome,4429025,215715,Italy,IT,IT,ITA,325
+2007,PSV,PSV Eindhoven,QF,Netherlands,Small,2000s,No,Eindhoven,NL005,Eindhoven,753778,46945,Netherlands,NL,NL,NTH,210
+2007,BMN,FC Bayern,QF,Germany,Big 5,2000s,No,München,DE003,Munich,2883373,241407,Germany,DE,DE,GMY,255
+2008,MNU,Manchester Utd FC,W,England,Big 5,2000s,Yes,Manchester,UK008,Manchester,3348274,136317,United Kingdom,UK,GB,UKG,200
+2008,CHE,Chelsea FC,RU,England,Big 5,2000s,Yes,London,UK001,London,12434823,851738,United Kingdom,UK,GB,UKG,200
+2008,LIV,Liverpool FC,SF,England,Big 5,2000s,Yes,Liverpool,UK006,Liverpool,1533860,50484,United Kingdom,UK,GB,UKG,200
+2008,FCB,FC Barcelona,SF,Spain,Big 5,2000s,Yes,Barcelona,ES002,Barcelona,4985549,218318,Spain,ES,ES,SPN,230
+2008,FEN,Fenerbahçe SK,QF,Turkey,Small,2000s,No,Istanbul,TR001,Istanbul,15462452,237000,Turkey,TR,TR,TUR,640
+2008,SLK,FC Schalke 04,QF,Germany,Big 5,2000s,No,Ruhrgebiet,DE038,Ruhr,5113487,206526,Germany,DE,DE,GMY,255
+2008,ROM,AS Roma,QF,Italy,Big 5,2000s,No,Roma,IT001,Rome,4429025,215715,Italy,IT,IT,ITA,325
+2008,ARS,Arsenal FC,QF,England,Big 5,2000s,Yes,London,UK001,London,12434823,851738,United Kingdom,UK,GB,UKG,200
+2009,FCB,FC Barcelona,W,Spain,Big 5,2010s,Yes,Barcelona,ES002,Barcelona,4985549,218318,Spain,ES,ES,SPN,230
+2009,MNU,Manchester Utd FC,RU,England,Big 5,2010s,Yes,Manchester,UK008,Manchester,3348274,136317,United Kingdom,UK,GB,UKG,200
+2009,ARS,Arsenal FC,SF,England,Big 5,2010s,Yes,London,UK001,London,12434823,851738,United Kingdom,UK,GB,UKG,200
+2009,CHE,Chelsea FC,SF,England,Big 5,2010s,Yes,London,UK001,London,12434823,851738,United Kingdom,UK,GB,UKG,200
+2009,VIL,Villareal CF,QF,Spain,Big 5,2010s,No,Vilareal,Vilareal,NA,NA,NA,Spain,ES,ES,SPN,230
+2009,POR,FC Porto,QF,Portugal,Small,2010s,No,Porto,PT002,Porto,1272189,38974,Portugal,PT,PT,POR,235
+2009,LIV,Liverpool FC,QF,England,Big 5,2010s,Yes,Liverpool,UK006,Liverpool,1533860,50484,United Kingdom,UK,GB,UKG,200
+2009,BMN,FC Bayern,QF,Germany,Big 5,2010s,No,München,DE003,Munich,2883373,241407,Germany,DE,DE,GMY,255
+2010,INT,FC Inter Milan,W,Italy,Big 5,2010s,Yes,Milano,IT002,Milan,5145657,301366,Italy,IT,IT,ITA,325
+2010,BMN,FC Bayern,RU,Germany,Big 5,2010s,No,München,DE003,Munich,2883373,241407,Germany,DE,DE,GMY,255
+2010,LYO,Olympique Lyon,SF,France,Big 5,2010s,No,Lyon,FR003,Lyon,2100064,112896,France,FR,FR,FRN,220
+2010,FCB,FC Barcelona,SF,Spain,Big 5,2010s,Yes,Barcelona,ES002,Barcelona,4985549,218318,Spain,ES,ES,SPN,230
+2010,MOS,CSKA Moscow,QF,Russia,East,2010s,No,Moscow,RU001,Moscow,12506468,284400,Russia,RU,RU,RUS,365
+2010,ARS,Arsenal FC,QF,England,Big 5,2010s,Yes,London,UK001,London,12434823,851738,United Kingdom,UK,GB,UKG,200
+2010,MNU,Manchester Utd FC,QF,England,Big 5,2010s,Yes,Manchester,UK008,Manchester,3348274,136317,United Kingdom,UK,GB,UKG,200
+2010,GIR,FC Girondins Bordeaux,QF,France,Big 5,2010s,No,Bordeaux,FR007,Bordeaux,1262357,52617,France,FR,FR,FRN,220
+2011,FCB,FC Barcelona,W,Spain,Big 5,2010s,Yes,Barcelona,ES002,Barcelona,4985549,218318,Spain,ES,ES,SPN,230
+2011,MNU,Manchester Utd FC,RU,England,Big 5,2010s,Yes,Manchester,UK008,Manchester,3348274,136317,United Kingdom,UK,GB,UKG,200
+2011,SLK,FC Schalke 04,SF,Germany,Big 5,2010s,No,Ruhrgebiet,DE038,Ruhr,5113487,206526,Germany,DE,DE,GMY,255
+2011,RMA,Real Madrid CF,SF,Spain,Big 5,2010s,Yes,Madrid,ES001,Madrid,6791667,342534,Spain,ES,ES,SPN,230
+2011,INT,FC Inter Milan,QF,Italy,Big 5,2010s,Yes,Milano,IT002,Milan,5145657,301366,Italy,IT,IT,ITA,325
+2011,DON,FC Xakhtar Donetsk,QF,Ukraine,East,2010s,No,Donetsk,Donetsk,NA,NA,NA,Ukraine,UA,UA,UKR,369
+2011,CHE,Chelsea FC,QF,England,Big 5,2010s,Yes,London,UK001,London,12434823,851738,United Kingdom,UK,GB,UKG,200
+2011,TOT,Tottenham Hotspur FC,QF,England,Big 5,2010s,Yes,London,UK001,London,12434823,851738,United Kingdom,UK,GB,UKG,200
+2012,CHE,Chelsea FC,W,England,Big 5,2010s,Yes,London,UK001,London,12434823,851738,United Kingdom,UK,GB,UKG,200
+2012,BMN,FC Bayern,RU,Germany,Big 5,2010s,No,München,DE003,Munich,2883373,241407,Germany,DE,DE,GMY,255
+2012,RMA,Real Madrid CF,SF,Spain,Big 5,2010s,Yes,Madrid,ES001,Madrid,6791667,342534,Spain,ES,ES,SPN,230
+2012,FCB,FC Barcelona,SF,Spain,Big 5,2010s,Yes,Barcelona,ES002,Barcelona,4985549,218318,Spain,ES,ES,SPN,230
+2012,MIL,AC Milan,QF,Italy,Big 5,2010s,Yes,Milano,IT002,Milan,5145657,301366,Italy,IT,IT,ITA,325
+2012,BEN,SL Benfica,QF,Portugal,Small,2010s,No,Lisbon,PT001,Lisbon,2976356,122547,Portugal,PT,PT,POR,235
+2012,MAR,Marseille FC,QF,France,Big 5,2010s,No,Marseille,FR203,Marseille,1260223,53884,France,FR,FR,FRN,220
+2012,APO,Apoel FC,QF,Cyprus,Small,2010s,No,Nicosia,CY001,NA,NA,NA,Cyprus,CY,CY,CYP,352
+2013,BMN,FC Bayern,W,Germany,Big 5,2010s,No,München,DE003,Munich,2883373,241407,Germany,DE,DE,GMY,255
+2013,DOR,Borussia Dortmund,RU,Germany,Big 5,2010s,No,Ruhrgebiet,DE038,Ruhr,5113487,206526,Germany,DE,DE,GMY,255
+2013,FCB,FC Barcelona,SF,Spain,Big 5,2010s,Yes,Barcelona,ES002,Barcelona,4985549,218318,Spain,ES,ES,SPN,230
+2013,RMA,Real Madrid CF,SF,Spain,Big 5,2010s,Yes,Madrid,ES001,Madrid,6791667,342534,Spain,ES,ES,SPN,230
+2013,JUV,Juventus FC,QF,Italy,Big 5,2010s,Yes,Torino,IT004,Turin,1760085,76575,Italy,IT,IT,ITA,325
+2013,PSG,Paris SG,QF,France,Big 5,2010s,No,Paris,FR001,Paris,12914803,913737,France,FR,FR,FRN,220
+2013,GAL,Galatasaray,QF,Turkey,Small,2010s,No,Istanbul,TR001,Istanbul,15462452,237000,Turkey,TR,TR,TUR,640
+2013,MAL,Malaga CF,QF,Spain,Big 5,2010s,No,Málaga,ES006,Malaga,862518,23360,Spain,ES,ES,SPN,230
+2014,RMA,Real Madrid CF,W,Spain,Big 5,2010s,Yes,Madrid,ES001,Madrid,6791667,342534,Spain,ES,ES,SPN,230
+2014,ATM,Atletico Madrid CF,RU,Spain,Big 5,2010s,Yes,Madrid,ES001,Madrid,6791667,342534,Spain,ES,ES,SPN,230
+2014,CHE,Chelsea FC,SF,England,Big 5,2010s,Yes,London,UK001,London,12434823,851738,United Kingdom,UK,GB,UKG,200
+2014,BMN,FC Bayern,SF,Germany,Big 5,2010s,No,München,DE003,Munich,2883373,241407,Germany,DE,DE,GMY,255
+2014,MNU,Manchester Utd FC,QF,England,Big 5,2010s,Yes,Manchester,UK008,Manchester,3348274,136317,United Kingdom,UK,GB,UKG,200
+2014,PSG,Paris SG,QF,France,Big 5,2010s,No,Paris,FR001,Paris,12914803,913737,France,FR,FR,FRN,220
+2014,DOR,Borussia Dortmund,QF,Germany,Big 5,2010s,No,Ruhrgebiet,DE038,Ruhr,5113487,206526,Germany,DE,DE,GMY,255
+2014,FCB,FC Barcelona,QF,Spain,Big 5,2010s,Yes,Barcelona,ES002,Barcelona,4985549,218318,Spain,ES,ES,SPN,230
+2015,FCB,FC Barcelona,W,Spain,Big 5,2010s,Yes,Barcelona,ES002,Barcelona,4985549,218318,Spain,ES,ES,SPN,230
+2015,JUV,Juventus FC,RU,Italy,Big 5,2010s,Yes,Torino,IT004,Turin,1760085,76575,Italy,IT,IT,ITA,325
+2015,BMN,FC Bayern,SF,Germany,Big 5,2010s,No,München,DE003,Munich,2883373,241407,Germany,DE,DE,GMY,255
+2015,RMA,Real Madrid CF,SF,Spain,Big 5,2010s,Yes,Madrid,ES001,Madrid,6791667,342534,Spain,ES,ES,SPN,230
+2015,MON,AS Monaco,QF,France,Big 5,2010s,No,Monaco,Monaco,NA,NA,NA,France,FR,FR,FRN,220
+2015,POR,FC Porto,QF,Portugal,Small,2010s,No,Porto,PT002,Porto,1272189,38974,Portugal,PT,PT,POR,235
+2015,ATM,Atletico Madrid CF,QF,Spain,Big 5,2010s,Yes,Madrid,ES001,Madrid,6791667,342534,Spain,ES,ES,SPN,230
+2015,PSG,Paris SG,QF,France,Big 5,2010s,No,Paris,FR001,Paris,12914803,913737,France,FR,FR,FRN,220
+2016,RMA,Real Madrid CF,W,Spain,Big 5,2010s,Yes,Madrid,ES001,Madrid,6791667,342534,Spain,ES,ES,SPN,230
+2016,ATM,Atletico Madrid CF,RU,Spain,Big 5,2010s,Yes,Madrid,ES001,Madrid,6791667,342534,Spain,ES,ES,SPN,230
+2016,MAC,Manchester City FC,SF,England,Big 5,2010s,Yes,Manchester,UK008,Manchester,3348274,136317,United Kingdom,UK,GB,UKG,200
+2016,BMN,FC Bayern,SF,Germany,Big 5,2010s,No,München,DE003,Munich,2883373,241407,Germany,DE,DE,GMY,255
+2016,WOL,VfL Wolfsburg,QF,Germany,Big 5,2010s,No,Braunschweig-Salzgitter-Wolfsburg,DE083,Braunschweig-Salzgitter Wolfsburg,997089,63108,Germany,DE,DE,GMY,255
+2016,BEN,SL Benfica,QF,Portugal,Small,2010s,No,Lisbon,PT001,Lisbon,2976356,122547,Portugal,PT,PT,POR,235
+2016,PSG,Paris SG,QF,France,Big 5,2010s,No,Paris,FR001,Paris,12914803,913737,France,FR,FR,FRN,220
+2016,BAR,FC Barcelona,QF,Spain,Big 5,2010s,Yes,Barcelona,ES002,Barcelona,4985549,218318,Spain,ES,ES,SPN,230
+2017,RMA,Real Madrid CF,W,Spain,Big 5,2010s,Yes,Madrid,ES001,Madrid,6791667,342534,Spain,ES,ES,SPN,230
+2017,JUV,Juventus FC,RU,Italy,Big 5,2010s,Yes,Torino,IT004,Turin,1760085,76575,Italy,IT,IT,ITA,325
+2017,ATM,Atletico Madrid CF,SF,Spain,Big 5,2010s,Yes,Madrid,ES001,Madrid,6791667,342534,Spain,ES,ES,SPN,230
+2017,MON,AS Monaco,SF,France,Big 5,2010s,No,Monaco,Monaco,NA,NA,NA,France,FR,FR,FRN,220
+2017,FCB,FC Barcelona,QF,Spain,Big 5,2010s,Yes,Barcelona,ES002,Barcelona,4985549,218318,Spain,ES,ES,SPN,230
+2017,BMN,FC Bayern,QF,Germany,Big 5,2010s,No,München,DE003,Munich,2883373,241407,Germany,DE,DE,GMY,255
+2017,DOR,Borussia Dortmund,QF,Germany,Big 5,2010s,No,Ruhrgebiet,DE038,Ruhr,5113487,206526,Germany,DE,DE,GMY,255
+2017,LEC,Leicester City,QF,England,Big 5,2010s,No,Leicester,UK014,Leicester,896515,33445,United Kingdom,UK,GB,UKG,200
+2018,RMA,Real Madrid CF,W,Spain,Big 5,2010s,Yes,Madrid,ES001,Madrid,6791667,342534,Spain,ES,ES,SPN,230
+2018,LIV,Liverpool FC,RU,England,Big 5,2010s,Yes,Liverpool,UK006,Liverpool,1533860,50484,United Kingdom,UK,GB,UKG,200
+2018,ROM,AS Roma,SF,Italy,Big 5,2010s,No,Roma,IT001,Rome,4429025,215715,Italy,IT,IT,ITA,325
+2018,BMN,FC Bayern,SF,Germany,Big 5,2010s,No,München,DE003,Munich,2883373,241407,Germany,DE,DE,GMY,255
+2018,MAC,Manchester City FC,QF,England,Big 5,2010s,Yes,Manchester,UK008,Manchester,3348274,136317,United Kingdom,UK,GB,UKG,200
+2018,JUV,Juventus FC,QF,Italy,Big 5,2010s,Yes,Torino,IT004,Turin,1760085,76575,Italy,IT,IT,ITA,325
+2018,SEV,Sevilla FC,QF,Spain,Big 5,2010s,No,Sevilla,ES004,Seville,1545862,45685,Spain,ES,ES,SPN,230
+2018,FCB,FC Barcelona,QF,Spain,Big 5,2010s,Yes,Barcelona,ES002,Barcelona,4985549,218318,Spain,ES,ES,SPN,230
+2019,LIV,Liverpool FC,W,England,Big 5,2010s,Yes,Liverpool,UK006,Liverpool,1533860,50484,United Kingdom,UK,GB,UKG,200
+2019,TOT,Tottenham Hotspur FC,RU,England,Big 5,2010s,Yes,London,UK001,London,12434823,851738,United Kingdom,UK,GB,UKG,200
+2019,FCB,FC Barcelona,SF,Spain,Big 5,2010s,Yes,Barcelona,ES002,Barcelona,4985549,218318,Spain,ES,ES,SPN,230
+2019,AJA,AFC Ajax,SF,Netherlands,Small,2010s,No,Amsterdam,NL002,Amsterdam,2769100,200944,Netherlands,NL,NL,NTH,210
+2019,MNU,Manchester Utd FC,QF,England,Big 5,2010s,Yes,Manchester,UK008,Manchester,3348274,136317,United Kingdom,UK,GB,UKG,200
+2019,MAC,Manchester City FC,QF,England,Big 5,2010s,Yes,Manchester,UK008,Manchester,3348274,136317,United Kingdom,UK,GB,UKG,200
+2019,POR,FC Porto,QF,Portugal,Small,2010s,No,Porto,PT002,Porto,1272189,38974,Portugal,PT,PT,POR,235
+2019,JUV,Juventus FC,QF,Italy,Big 5,2010s,Yes,Torino,IT004,Turin,1760085,76575,Italy,IT,IT,ITA,325
+2020,BMN,FC Bayern,W,Germany,Big 5,2010s,No,München,DE003,Munich,2883373,241407,Germany,DE,DE,GMY,255
+2020,PSG,Paris SG,RU,France,Big 5,2010s,No,Paris,FR001,Paris,12914803,913737,France,FR,FR,FRN,220
+2020,LYO,Olympique Lyon,SF,France,Big 5,2010s,No,Lyon,FR003,Lyon,2100064,112896,France,FR,FR,FRN,220
+2020,LEI,RB Leipzig,SF,Germany,East,2010s,No,Leipzig,DE008,Leipzig,1037782,41485,Germany,DE,DE,GMY,255
+2020,ATA,Atalanta,QF,Italy,Big 5,2010s,No,Bergamo,IT511,Bergamo,313252,NA,Italy,IT,IT,ITA,325
+2020,FCB,FC Barcelona,QF,Spain,Big 5,2010s,Yes,Barcelona,ES002,Barcelona,4985549,218318,Spain,ES,ES,SPN,230
+2020,ATM,Atletico Madrid CF,QF,Spain,Big 5,2010s,Yes,Madrid,ES001,Madrid,6791667,342534,Spain,ES,ES,SPN,230
+2020,MAC,Manchester City FC,QF,England,Big 5,2010s,Yes,Manchester,UK008,Manchester,3348274,136317,United Kingdom,UK,GB,UKG,200
+2021,MAC,Manchester City FC,W,England,Big 5,2010s,Yes,Manchester,UK008,Manchester,3348274,136317,United Kingdom,UK,GB,UKG,200
+2021,CHE,Chelsea FC,RU,England,Big 5,2010s,Yes,London,UK001,London,12434823,851738,United Kingdom,UK,GB,UKG,200
+2021,RMA,Real Madrid CF,SF,Spain,Big 5,2010s,Yes,Madrid,ES001,Madrid,6791667,342534,Spain,ES,ES,SPN,230
+2021,PSG,Paris SG,SF,France,Big 5,2010s,No,Paris,FR001,Paris,12914803,913737,France,FR,FR,FRN,220
+2021,LIV,Liverpool FC,QF,England,Big 5,2010s,Yes,Liverpool,UK006,Liverpool,1533860,50484,United Kingdom,UK,GB,UKG,200
+2021,BMN,FC Bayern,QF,Germany,Big 5,2010s,No,München,DE003,Munich,2883373,241407,Germany,DE,DE,GMY,255
+2021,POR,FC Porto,QF,Portugal,Small,2010s,No,Porto,PT002,Porto,1272189,38974,Portugal,PT,PT,POR,235
+2021,DOR,Borussia Dortmund,QF,Germany,Big 5,2010s,No,Ruhrgebiet,DE038,Ruhr,5113487,206526,Germany,DE,DE,GMY,255
